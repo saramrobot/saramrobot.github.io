@@ -1,4 +1,8 @@
 ---
+author_profile: true
+sidebar:
+  nav: "main"
+  
 title:  "Start Blog"
 excerpt: "블로그 시작"
 
